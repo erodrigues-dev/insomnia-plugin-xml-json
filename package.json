@@ -1,14 +1,19 @@
 {
   "name": "insomnia-plugin-xml-json",
-  "version": "0.0.1",
-  "description": "extrai um json de dentro de um xml",
+  "version": "0.0.2",
+  "description": "extracts the json from xml inside the string tag",
+  "homepage": "https://github.com/erodrigues-dev/insomnia-plugin-xml-json",
+  "bugs": {
+    "url": "https://github.com/erodrigues-dev/insomnia-plugin-xml-json/issues"
+  },
   "main": "plugin.js",
   "insomnia": {
     "name": "xml-json",
-    "description": "extrai um json de dentro de um xml"
+    "description": "extracts the json from xml inside the string tag"
   },
   "keywords": [
     "insomnia",
+    "plugin",
     "xml",
     "json",
     "fluig"
