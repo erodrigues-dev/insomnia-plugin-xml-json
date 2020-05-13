@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-xml-json",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "extracts the json from xml inside the string tag",
   "homepage": "https://github.com/erodrigues-dev/insomnia-plugin-xml-json",
   "bugs": {
