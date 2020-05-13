@@ -1,0 +1,18 @@
+{
+  "name": "insomnia-plugin-xml-json",
+  "version": "0.0.1",
+  "description": "extrai um json de dentro de um xml",
+  "main": "plugin.js",
+  "insomnia": {
+    "name": "xml-json",
+    "description": "extrai um json de dentro de um xml"
+  },
+  "keywords": [
+    "insomnia",
+    "xml",
+    "json",
+    "fluig"
+  ],
+  "author": "Elton Rodrigues",
+  "license": "ISC"
+}
