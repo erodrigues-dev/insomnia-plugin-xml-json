@@ -1,5 +1,7 @@
 # Insomnia Plugin XML-JSON
 
+[![Npm Version](https://img.shields.io/npm/v/insomnia-plugin-xml-json.svg)](https://www.npmjs.com/package/insomnia-plugin-xml-json)
+
 This plugin was created with the incentive that I am working on a project in
 that the api returns me an XML and inside it has a JSON and with it the (Insomnia which is incredible software) fails to format properly.
 
