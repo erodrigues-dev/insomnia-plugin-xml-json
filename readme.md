@@ -35,12 +35,3 @@ enter the plugin name `insomnia-plugin-xml-json` and click Install Plugin.
 After installing the plugin click on enable
 
 ![installed](https://raw.githubusercontent.com/erodrigues-dev/insomnia-plugin-xml-json/master/prints/insomnia-preferences-pulgins-installed.png)
-
-## Activating plugin
-
-Click to open the workspace menu and then click on `XML-JSON`, a message
-will tell you whether the plugin has been enabled or disabled.
-
-![menu](https://raw.githubusercontent.com/erodrigues-dev/insomnia-plugin-xml-json/master/prints/workspace-action.png)
-
-![state](https://raw.githubusercontent.com/erodrigues-dev/insomnia-plugin-xml-json/master/prints/plugin-state.png)
